@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\studytopicspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\studytopicspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\studytopicspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\studytopicspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\quizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\quizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +71,12 @@
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\studytopicswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\studytopicswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\quizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\quizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\studytopicswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\studytopicswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\simulationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,28 +95,12 @@
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\models\\usercontentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\theorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\theorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\dashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -106,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 328,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +134,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\App.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\App.xaml.cs",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvxQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:36:13.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\RegisterPage.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:29:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\RegisterPage.xaml",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\RegisterPage.xaml",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\RegisterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T19:29:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:03:40.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\DashboardPage.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\DashboardPage.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:56:58.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "20241226225535_UpdatePracticeQuestionsModel.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Migrations\\20241226225535_UpdatePracticeQuestionsModel.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Migrations\\20241226225535_UpdatePracticeQuestionsModel.cs",
@@ -126,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "PracticeQuestion.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Models\\PracticeQuestion.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Models\\PracticeQuestion.cs",
@@ -138,19 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudyTopicsWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\StudyTopicsWindow.xaml.cs",
-              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsWindow.xaml.cs",
-              "RelativeToolTip": "Diploma_v1_01_12_24\\StudyTopicsWindow.xaml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowE0AAABIAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "StudyTopicsPage.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\StudyTopicsPage.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsPage.xaml.cs",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\StudyTopicsPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:39:06.848Z"
+              "WhenOpened": "2024-12-10T15:39:06.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "QuizPage.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\QuizPage.xaml.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\QuizPage.xaml.cs",
@@ -164,17 +249,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "StudyTopicsWindow.xaml",
-              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsWindow.xaml",
-              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\StudyTopicsWindow.xaml",
-              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsWindow.xaml",
-              "RelativeToolTip": "Diploma_v1_01_12_24\\StudyTopicsWindow.xaml",
+              "Title": "StudyTopicsPage.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsPage.xaml",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\StudyTopicsPage.xaml",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\StudyTopicsPage.xaml",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\StudyTopicsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-10T15:33:42.704Z"
+              "WhenOpened": "2024-12-10T15:33:42.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "SimulationPage.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\SimulationPage.xaml.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\SimulationPage.xaml.cs",
@@ -186,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "TheoryPage.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\TheoryPage.xaml.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\TheoryPage.xaml.cs",
@@ -198,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "SimulationPage.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\SimulationPage.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\SimulationPage.xaml",
@@ -209,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "QuizQuestion.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Models\\QuizQuestion.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Models\\QuizQuestion.cs",
@@ -221,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Content.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Models\\Content.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Models\\Content.cs",
@@ -233,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Models\\User.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Models\\User.cs",
@@ -245,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "UserContentProgress.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Models\\UserContentProgress.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Models\\UserContentProgress.cs",
@@ -257,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "20241210220900_UpdateQuizQuestionModel.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Migrations\\20241210220900_UpdateQuizQuestionModel.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Migrations\\20241210220900_UpdateQuizQuestionModel.cs",
@@ -269,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "QuizPage.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\QuizPage.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\QuizPage.xaml",
@@ -280,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Data\\AppDbContext.cs",
@@ -292,30 +378,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "RelativeToolTip": "Diploma_v1_01_12_24\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAgwEkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T17:20:58.829Z"
+              "WhenOpened": "2024-12-01T17:20:58.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "TheoryPage.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\TheoryPage.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\TheoryPage.xaml",
               "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\TheoryPage.xaml",
               "RelativeToolTip": "Diploma_v1_01_12_24\\TheoryPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-10T20:17:40.394Z"
+              "WhenOpened": "2024-12-10T20:17:40.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "PracticePage.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\PracticePage.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\PracticePage.xaml",
@@ -326,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "PracticePage.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\PracticePage.xaml.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\PracticePage.xaml.cs",
@@ -338,40 +426,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\LoginWindow.xaml",
-              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\LoginWindow.xaml",
-              "RelativeToolTip": "Diploma_v1_01_12_24\\LoginWindow.xaml",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\LoginPage.xaml",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\LoginPage.xaml",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T20:40:48.692Z"
+              "WhenOpened": "2024-12-01T20:40:48.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DashboardWindow.xaml",
-              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\DashboardWindow.xaml",
-              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\DashboardWindow.xaml",
-              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\DashboardWindow.xaml",
-              "RelativeToolTip": "Diploma_v1_01_12_24\\DashboardWindow.xaml",
+              "DocumentIndex": 10,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\DashboardPage.xaml",
+              "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\DashboardPage.xaml",
+              "RelativeToolTip": "Diploma_v1_01_12_24\\DashboardPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T21:31:01.469Z"
+              "WhenOpened": "2024-12-01T21:31:01.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\App.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\App.xaml",
               "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\App.xaml",
               "RelativeToolTip": "Diploma_v1_01_12_24\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T20:06:25.842Z"
+              "WhenOpened": "2024-12-01T20:06:25.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "20241210194915_AddSectionsToContent.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\Migrations\\20241210194915_AddSectionsToContent.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\Migrations\\20241210194915_AddSectionsToContent.cs",
@@ -383,14 +474,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\MainWindow.xaml",
               "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml",
               "RelativeToolTip": "Diploma_v1_01_12_24\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T17:21:05.108Z"
+              "WhenOpened": "2024-12-01T17:21:05.108Z",
+              "EditorCaption": ""
             }
           ]
         }
