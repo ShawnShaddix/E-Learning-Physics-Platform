@@ -126,8 +126,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 328,
-          "SelectedChildIndex": 29,
+          "SelectedChildIndex": 30,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -140,9 +144,10 @@
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\App.xaml.cs",
               "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\App.xaml.cs",
               "RelativeToolTip": "Diploma_v1_01_12_24\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:36:13.23Z"
+              "WhenOpened": "2025-02-20T19:36:13.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -376,9 +381,10 @@
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "RelativeToolTip": "Diploma_v1_01_12_24\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T17:20:58.829Z"
+              "WhenOpened": "2024-12-01T17:20:58.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
