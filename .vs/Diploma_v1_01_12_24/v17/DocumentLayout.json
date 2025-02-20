@@ -126,16 +126,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 328,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 28,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -146,8 +138,7 @@
               "RelativeToolTip": "Diploma_v1_01_12_24\\App.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:36:13.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T19:36:13.23Z"
             },
             {
               "$type": "Document",
@@ -383,8 +374,7 @@
               "RelativeToolTip": "Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T17:20:58.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T17:20:58.829Z"
             },
             {
               "$type": "Document",
@@ -477,6 +467,14 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T17:21:05.108Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

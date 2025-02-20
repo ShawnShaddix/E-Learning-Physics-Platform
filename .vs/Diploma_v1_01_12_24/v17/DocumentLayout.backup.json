@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|solutionrelative:diploma_v1_01_12_24\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C0FEFFC-A92E-4A6C-AF6A-E23EAFB6228A}|Diploma_v1_01_12_24\\Diploma_v1_01_12_24.csproj|d:\\desktop\\diploma\\diploma_v1_01_12_24\\diploma_v1_01_12_24\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,11 +126,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 328,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -371,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\MainWindow.xaml.cs",
@@ -464,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Diploma\\Diploma_v1_01_12_24\\Diploma_v1_01_12_24\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Diploma_v1_01_12_24\\MainWindow.xaml",
